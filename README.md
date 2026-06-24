@@ -11,7 +11,7 @@ I am an **AI/ML Researcher & Developer** and a **Full-Stack Developer** with a p
 *   **Applied Research:** Specialist in low-resource language processing and biometric authentication.
 
 ### 🔬 Featured Research & Projects
-*   **Kurdish SIV System:** Lead researcher developing CNN-based acoustic modeling for speaker identification. [Published Dataset on Mendeley Data]([https://data.mendeley.com/datasets/vvt47jv4ky/1](https://data.mendeley.com/datasets/7rv22xjmdx/1)).
+*   **Kurdish SIV System:** Lead researcher developing CNN-based acoustic modeling for speaker identification. [Published Dataset on Mendeley Data]([https://data.mendeley.com/datasets/vvt47jv4ky/1](https://data.mendeley.com/datasets/7rv22xjmdx/1).
 *   **Medical Computer Vision:** Architected an AI-driven kidney cyst diagnostic tool showcased at the Artificial Intelligence Expo 2025 [Published Dataset on Mendeley Data](https://data.mendeley.com/datasets/vvt47jv4ky/1).
 *   **Market SaaS Application:** Built a secure, high-performance Point of Sale system utilizing React, Node.js, and native SQLite.
 
