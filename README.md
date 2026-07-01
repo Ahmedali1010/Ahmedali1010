@@ -28,6 +28,6 @@ I am an **AI/ML Researcher & Developer** and a **Full-Stack Developer** with a p
 
 ### 📈 GitHub Stats
 [![Ahmed Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedali1010&show_icons=true&theme=radical)](https://github.com/Ahmedali1010)
-*.ipynb linguist-language=Python
+
 
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/ahmad-ali-salim84) | [Email](mailto:ahmad.ascs2022@uoh.edu.iq)
