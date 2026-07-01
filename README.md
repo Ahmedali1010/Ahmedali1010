@@ -25,11 +25,9 @@ I am an **AI/ML Researcher & Developer** and a **Full-Stack Developer** with a p
 *   1st Place Winner in the University of Halabja Mathematics Competition.
 
 ---
-<div align="center">
-  <a href="https://github.com/Ahmedali1010">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmedali1010&show_icons=true&theme=radical&cache_seconds=1800&v=1" alt="Ahmed Ali's GitHub Stats" width="450" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedali1010&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/ahmad-ali-salim84) | [Email](mailto:ahmad.ascs2022@uoh.edu.iq)
