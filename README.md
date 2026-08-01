@@ -84,7 +84,7 @@ AI/ML Researcher and Full-Stack Developer at the intersection of **deep learning
 |:--|:--|
 | **Role** | System Architect |
 | **Contribution** | Architected end-to-end CNN segmentation and classification pipeline for automated renal cyst detection from imaging data |
-| **Recognition** | Presented at **Artificial Intelligence Expo 2025** |
+| **Recognition** | Presented at **Artificial Intelligence Expo 2025** in University of Halabja|
 | **Dataset** | 📂 [Mendeley Data — Kidney Cyst Imaging](https://data.mendeley.com/datasets/vvt47jv4ky/1) |
 
 ---
